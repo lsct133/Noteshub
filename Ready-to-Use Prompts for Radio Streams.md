@@ -10,4 +10,4 @@
     
 -   **If you know the station name but not the stream link:**
     
-    > _"What is the direct MP3 or AAC Icecast stream URL for [Station Name, e.g., 'Uber Radio Calm Classical'] that works in standalone hardware or internet radio apps?"_
+ _"What is the direct MP3 or AAC Icecast stream URL for [Station Name, e.g., 'Uber Radio Calm Classical'] that works in standalone hardware or internet radio apps?"_
