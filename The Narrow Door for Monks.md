@@ -1,13 +1,3 @@
----
-title: "The Narrow Door at the Alcobaça Monastery in Portugal"
-source: "https://www.vintag.es/2026/05/alcobaca-portugal-monastery-door.html"
-author:
-published:
-created: 2026-05-31
-description: "The famously narrow door at the Alcobaça Monastery (Mosteiro de Santa Maria de Alcobaça) in Portugal is one of the most curious architectura..."
-tags:
-  - "clippings"
----
 The famously narrow door at the Alcobaça Monastery (Mosteiro de Santa Maria de Alcobaça) in Portugal is one of the most curious architectural features of the medieval world. Locally known as the Porta Pega-Gordos (literally the “Fat-Catcher Door” or “Anti-Gluttony Door’), it stands as a stark, physical reminder of medieval monastic discipline.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4zQdH6uZ9CuqvHlFcd60GEl3qPo3b4qbkkulv51fsF00p9SmkyM2L9vNwKCzgpDcSNxpE4iQrgvwQEutrE05MKzRbYjmsrV8zKkNuaNwFeMHPvy8KV9xbMpFqu0LzqSHXZFmkDZ-uvxqdBc39DZXpGxuWDKFtnU_qllIMHd8Kw8VTt02sS8ZCwRz2r8g/s16000/alcobaca-portugal-monastery-door-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4zQdH6uZ9CuqvHlFcd60GEl3qPo3b4qbkkulv51fsF00p9SmkyM2L9vNwKCzgpDcSNxpE4iQrgvwQEutrE05MKzRbYjmsrV8zKkNuaNwFeMHPvy8KV9xbMpFqu0LzqSHXZFmkDZ-uvxqdBc39DZXpGxuWDKFtnU_qllIMHd8Kw8VTt02sS8ZCwRz2r8g/s826/alcobaca-portugal-monastery-door-1.jpg)  
