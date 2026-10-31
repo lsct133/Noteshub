@@ -2,7 +2,7 @@
 
 **If you have messy config text or code:**
     
-"Extract just the direct audio stream URL from this line so I can paste it into a radio player: `[paste your snippet here]`"_
+"Extract just the direct audio stream URL from this line so I can paste it into a radio player: `[paste your snippet here]`"
     
 **If a stream URL fails to play in your radio:**
     
