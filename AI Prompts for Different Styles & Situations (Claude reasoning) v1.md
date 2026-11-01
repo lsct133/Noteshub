@@ -1,7 +1,5 @@
-AI Prompts for Different Styles & Situations
+AI Prompts for Different Styles & Situations (Claude reasoning) v1
 ---
-
-Claude reasoning
 
 ## 1. Easy AI Prompts for Beginners
 
