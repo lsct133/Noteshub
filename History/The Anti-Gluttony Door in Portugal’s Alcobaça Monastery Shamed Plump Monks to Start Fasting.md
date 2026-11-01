@@ -1,6 +1,6 @@
-[Source](https://www.openculture.com/2021/01/the-anti-gluttony-door-in-portugals-alcobaca-monastery-shamed-plump-monks-to-start-fasting.html)
+### [The Anti-Gluttony Door in Portugal’s Alcobaça Monastery Shamed Plump Monks to Start Fasting](https://www.openculture.com/2021/01/the-anti-gluttony-door-in-portugals-alcobaca-monastery-shamed-plump-monks-to-start-fasting.html)
 
-![](![anti-gluttony-door.jpeg](https://github.com/lsct133/assets/blob/main/notes/anti-gluttony-door.jpeg?raw=true))
+![anti-gluttony-door.jpeg](https://github.com/lsct133/assets/blob/main/notes/anti-gluttony-door.jpeg?raw=true)
 
 > _Consider that you eat the sins of the people_
 > 
