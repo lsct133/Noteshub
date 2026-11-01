@@ -1,4 +1,4 @@
-### Beginner AI Prompts (Claude reasoning) #2
+### Beginner AI Prompts (Claude reasoning) v2
 
 * Comparison: Compare the health benefits of drinking green tea versus black tea.
 * Long: I am planning a three-day weekend trip to New Orleans in March. I enjoy jazz music, Creole architecture, and spicy food, but I prefer to avoid the most crowded tourist traps. Can you suggest a relaxed itinerary with a few hidden gems?
